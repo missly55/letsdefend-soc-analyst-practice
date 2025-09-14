@@ -7,7 +7,7 @@ Difficulty: Beginner/Intermediate
 Initial Observation:
 On letsdefend the SIEM tool used to view alerts indicated that there was a possible phishing incident involving a malicious attachment was detected. The severity listed on this alert is High. The email subject states Invoice. The email was NOT flagged by the system; it was delivered to the user’s inbox.  Which the device action indicates it was allowed.
 The message was short and harmless:
-> "Dear customer, Your invoice for the shopping you have done is attached. Regards."
+> "Dear customer, Your invoice for the shopping you have done is attached. Regards." <
 There was an an attachment with a file hash value of: 
 `c9ad9506bcccfaa987ff9fc11b91698d`
 So VirusTotal indicates that the file hash was flagged as malicious. 34/61 security vendors, threat labeled as trojan and  Cve-2017-11882. 
