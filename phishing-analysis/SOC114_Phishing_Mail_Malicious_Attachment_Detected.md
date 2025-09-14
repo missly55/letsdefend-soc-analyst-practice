@@ -9,17 +9,17 @@ On letsdefend the SIEM tool used to view alerts indicated that there was a possi
 The message was short and harmless:
 > "Dear customer, Your invoice for the shopping you have done is attached. Regards."
 There was an an attachment with a file hash value of: 
- >“c9ad9506bcccfaa987ff9fc11b91698d”
+ > `c9ad9506bcccfaa987ff9fc11b91698d`
 So VirusTotal indicates that the file hash was flagged as malicious. 34/61 security vendors, threat labeled as trojan and  Cve-2017-11882. 
->”SMTP: “49.234.43.39” listed as country CHINA
+> ”SMTP: `49.234.43.39` listed as country CHINA
 
  Investigation Steps:
 
 To understand the alert, I followed these steps:
 
-1. Searched for the email using the sender's “accounting@cmail.carleton.ca” address inside the Let’s Defend platform.
+1. Searched for the email using the sender's `accounting@cmail.carleton.ca` address inside the Let’s Defend platform.
 2. Checked the attachments file hash value using VirusTotal — came back clean
-3. Check the sender’s email accounting@cmail.carleton.ca using WHOIS — came back clean registrar to Carleton University.
+3. Check the sender’s email `accounting@cmail.carleton.ca` using WHOIS — came back clean registrar to Carleton University.
 
 Tools Used:
 VirusTotal
