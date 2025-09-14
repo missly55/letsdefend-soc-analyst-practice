@@ -1,8 +1,8 @@
 ## SOC Alert Investigation:  SOC114 - Malicious Attachment Detected - Phishing Alert
 
-Date: 14 September 2025
-Platform: LetsDefend
-Type of Alert: Phishing
+Date: 14 September 2025  
+Platform: LetsDefend  
+Type of Alert: Phishing  
 Difficulty: Beginner/Intermediate
 
 Initial Observation:
