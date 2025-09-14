@@ -1,9 +1,9 @@
 ## SOC Alert Investigation:  SOC114 - Malicious Attachment Detected - Phishing Alert
 
-# Date: 14 September 2025
-# Platform: LetsDefend
-# Type of Alert: Phishing
-# Difficulty: Beginner/Intermediate
+- Date: 14 September 2025
+- Platform: LetsDefend
+- Type of Alert: Phishing
+- Difficulty: Beginner/Intermediate
 
 Initial Observation:
 On letsdefend the SIEM tool used to view alerts indicated that there was a possible phishing incident involving a malicious attachment was detected. The severity listed on this alert is High. The email subject states Invoice. The email was NOT flagged by the system; it was delivered to the user’s inbox.  Which the device action indicates it was allowed.
