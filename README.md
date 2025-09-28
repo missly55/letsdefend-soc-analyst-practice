@@ -8,4 +8,4 @@ In this repository I will highlight my hands-on practice, reports based on SOC a
 | Alert ID | Alert Type           | Description                                    | Link |
 |----------|----------------------|------------------------------------------------|------|
 | SOC114   | Phishing Email       | Malicious attachment in invoice email          | [View Report](phishing-analysis/SOC114_Phishing_Mail_Malicious_Attachment_Detected.md) |
-| SOC170   | Web Attack (LFI)     | Local file inclusion via crafted URL           | [View Report](./SOC170_Local_File_Inclusion.md) |
+| SOC170   | Web Attack (LFI)     | Local file inclusion via crafted URL           | [View Report](Web-Attacks/SOC170_Local_File_Inclusion.md) |
