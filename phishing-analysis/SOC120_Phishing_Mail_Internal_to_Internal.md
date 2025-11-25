@@ -33,4 +33,4 @@ The SMTP Address `172.16.20.3`came back clean when entered in VirusTotal, no sig
 
 
 **What I Learned:**
-I learn't how to analzye phishing emails from indicators of compromise using tools VirusTotal. Understand how to navigate a SIEM tool using this simulated environment. How to document finds whether true positive or false positive.
+I learn't how to analzye phishing emails from indicators of compromise using tools VirusTotal. Understand how to navigate a SIEM tool using this simulated environment. How to document finds whether true positive or false positive, following the simulated SOC playbook.
