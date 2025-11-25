@@ -29,7 +29,7 @@ To identify it  the alert was a false positive or a true positive, I followed th
 
 **Conclusion:**
 
-The SMTP Address `172.16.20.3`came back clean when entered in VirusTotal, no sign of malicious content. And device action was allowed since both email address are internal to the company. The message in the email was harmless no attachments or URLs to investigate. 
+The SMTP Address `172.16.20.3`came back clean when entered in VirusTotal, no sign of malicious content. And device action was allowed since both email address are internal to the company. The message in the email was harmless no attachments or URLs to investigate. So this is a False Positve.
 
 
 **What I Learned:**
