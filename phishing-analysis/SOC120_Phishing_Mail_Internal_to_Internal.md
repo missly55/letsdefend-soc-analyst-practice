@@ -18,7 +18,7 @@ I gathered information from the alert  SMTP Address `172.16.20.3`, Source addres
 For each artifact stated within the email search tools (VirusTotal, UrLScan, Letsdefend Email Gateway) to identify indicators of compromise and gather more information about the alert in question.
 In the Email security tab on Letsdefend search using the email address `john@letsdefend.io` identifying the right date stated in the alert `Feb, 07, 2021, 04:24 AM`. 
 
-[Email:](Source.png)
+[Email](Email.png)
 
 
 
