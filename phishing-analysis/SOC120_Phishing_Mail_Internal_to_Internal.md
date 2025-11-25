@@ -2,7 +2,7 @@
 
 **Date:** 25 November 2025  
 **Platform:** LetsDefend  
-**Type of Alert:** Exchange 
+**Type of Alert:** Exchange   
 **Difficulty:** Beginner/Intermediate
 
 **Initial Observation:**  
