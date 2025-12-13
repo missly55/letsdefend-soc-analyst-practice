@@ -1,5 +1,5 @@
 
-## SOC Alert Investigation:  SOC120 - Phishing Mail Detected - Internal to Internal
+## SOC Alert Investigation:  SOC335 - Exploitation Detected
 
 **Date:**  
 **Platform:** LetsDefend  
