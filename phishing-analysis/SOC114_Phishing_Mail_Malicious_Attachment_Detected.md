@@ -36,6 +36,10 @@ The attachment had a file hash “c9ad9506bcccfaa987ff9fc11b91698d” that was f
 
 The SMTP IP address was located in China.
 
+**Verdict**
+
+True Positive
+
 
 **What I Learned:**
 This was a great hands-on learning experience. Where I practiced:
