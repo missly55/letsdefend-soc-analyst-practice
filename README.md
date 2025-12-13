@@ -11,6 +11,5 @@ In this repository I will highlight my hands-on practice, reports based on SOC a
 | SOC170   | Web Attack (LFI)     | Attacker tried to use a special URL to access system files | [View Report](Web-Attacks/SOC170_Local_File_Inclusion.md) |
 | SOC119   |  Proxy / Executable     | False positive — Clean WinRAR URL | [View Report](malware-analysis/SOC119_Malicious_Executable.md) |
 | SOC120   |  Phishing Email      | Internal email — determined to be a False Positive | [View Report](phishing-analysis/SOC120_Phishing_Mail_Internal_to_Internal.md) |
-
-
+| SOC335   |  Privilege Escalation    | Explotation Detected -  | [View Report](  ) |
 
