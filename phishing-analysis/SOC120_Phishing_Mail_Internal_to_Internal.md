@@ -30,7 +30,7 @@ To identify it the alert was a false positive or a true positive, following thes
 **Conclusion:**
 
 The SMTP IP `172.16.20.3` showed no malicious indicators on VirusTotal. And device action was allowed since both email address are internal to the company. The message in the email was harmless no attachments or URLs to investigate. 
-Classification: False Positive
+**Classification:** False Positive
 
 
 **What I Learned:**
