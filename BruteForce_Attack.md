@@ -17,15 +17,14 @@ The alert timestamp showed activity dated `March 7, 2024`, with repeated authent
 
 To help in identifying whether the alert was a false positive or a true positive, follow these steps:
 1. Gather evidence from the alert dashboard. The alert was triggered with the message `
-2. Login failure from a single source with different non-existing accounts`.
-3. Identify Indicators of Compromise (IOC) using various tools. Tool Virustotal is appropriate since the alerts have both destination and source IP address. 
-Navigated to the Log Management Tab using destination IP address `172.16.17.148`. 
+   `"Login failure from a single source with different non-existing accounts."`
+2. Identify Indicators of Compromise (IOC) using various tools. Tool Virustotal is appropriate since the alerts have both destination and source IP address. 
+3. Navigated to the Log Management Tab using destination IP address `172.16.17.148`. 
 * Multiple log entries were observed with the message:
  `Unknown user name or bad password`
 * All failed login attempts originated from the same source IP address:
  `218.92.0.56`
 4. Submitted both IP addresses to VirusTotal for reputation analysis.
-
 
 **Tools Used:**
 - VirusTotal
@@ -45,7 +44,7 @@ Country of origin: China
 
 
 **Conclusion:**
-Based on log evidence and IOC reputation analysis, this alert was determined to be a true positive brute force attempt.
+Based on log evidence and IOC reputation analysis, this alert was determined to be a **True Positive** brute force attempt.
 
 **What I Learned:**
 
