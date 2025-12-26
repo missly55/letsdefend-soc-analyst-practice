@@ -12,4 +12,4 @@ In this repository I will highlight my hands-on practice, reports based on SOC a
 | SOC119   |  Proxy / Executable     | False positive — Clean WinRAR URL | [View Report](malware-analysis/SOC119_Malicious_Executable.md) |
 | SOC120   |  Phishing Email      | Internal email — determined to be a False Positive | [View Report](phishing-analysis/SOC120_Phishing_Mail_Internal_to_Internal.md) |
 
-
+| SOC176   |  BruteForce Alert    | Investigation determined to be a True Positive | [View Report](BruteForce_Attack.md)
